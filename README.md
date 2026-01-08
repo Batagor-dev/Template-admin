@@ -1,6 +1,6 @@
-Admin Panel Template
+**Admin Panel Template**
 
-Fitur Utama
+**Fitur Utama**
 - Layout admin panel responsif
 - Sidebar + Navbar siap pakai
 - Tabel data interaktif
