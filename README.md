@@ -39,17 +39,18 @@ Project ini dibangun menggunakan **HTML, CSS, dan JavaScript murni** tanpa frame
 
 ### 🎨 UI & UX
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/remixicon.svg" width="20"/> **Remix Icon**  
-  Library icon modern, clean, dan konsisten untuk dashboard.
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/remixicon.svg" width="20"/> **Remix Icon**  
+  Icon modern dan konsisten untuk dashboard.
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sweetalert.svg" width="20"/> **SweetAlert2**  
-  Alert dan dialog konfirmasi yang lebih interaktif dibanding alert bawaan browser.
+- ![SweetAlert2](https://img.shields.io/badge/SweetAlert2-Alerts-red)  
+  Alert dan dialog konfirmasi interaktif.
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/select2.svg" width="20"/> **Select2**  
-  Dropdown select dengan fitur search, tagging, dan multi-select.
+- ![Select2](https://img.shields.io/badge/Select2-Enhanced%20Select-blue)  
+  Dropdown select dengan search & multi-select.
 
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/datatables.svg" width="20"/> **DataTables**  
-  Tabel data dengan sorting, searching, pagination, dan dukungan responsive.
+- ![DataTables](https://img.shields.io/badge/DataTables-Interactive%20Tables-orange)  
+  Tabel data dengan sorting, searching, dan pagination.
+
 
 ---
 
